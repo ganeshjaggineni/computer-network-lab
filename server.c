@@ -65,3 +65,10 @@ int main(int argc, char const* argv[])
 	close(server_fd);
 	return 0;
 }
+
+
+// compiling = gcc filename.extension -o filename
+//compiling = gcc server.c -o server
+
+//run = ./filename
+//run = ./server
